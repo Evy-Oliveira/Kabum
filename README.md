@@ -1,4 +1,7 @@
-# Kabum
+# Kabum! 
 Desafio de Projeto Git e Github
 
-Lista de  jogos de tabuleiro favoritos:
+Aproveitem essas dicas;)
+
+ - Jogos Adquiridos;
+ - Jogos Para Comprar;
